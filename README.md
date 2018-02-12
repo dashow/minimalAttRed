@@ -1,0 +1,2 @@
+# minimalAttRed
+Minimal attribute reduction 
